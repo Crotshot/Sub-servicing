@@ -1,6 +1,7 @@
 # Sub-servicing
 Made for ludum dare 48 in a team of 3. Theme: Deeper and Deeper
--Ganere: Endless 2D hectic micromanagement
+
+-Genre: Endless 2D hectic micromanagement
 
 You play as a lone submarine captain/gunner/firstmate/serviceman on a quest to go as 
 deep into the oceans depths as you possibly can in your coal powered submarine, as 
